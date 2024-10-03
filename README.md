@@ -48,7 +48,7 @@ Para rodar os testes utilizando a interface gráfica do Cypress:
    npx cypress open
    ```
 
-2. A interface gráfica do Cypress será aberta, permitindo que você selecione e execute os testes. Selecione o arquivo `token_api_test.spec.js` para rodar os testes.
+2. A interface gráfica do Cypress será aberta, permitindo que você selecione e execute os testes. Selecione o arquivo `token_api_test.spec.cy.js` para rodar os testes.
 
 ### Via Linha de Comando (Headless)
 
