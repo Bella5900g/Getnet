@@ -33,7 +33,7 @@ Para executar este projeto, é necessário ter o [Node.js](https://nodejs.org/) 
 
 ## Estrutura do Projeto
 
-- **cypress/integration/**: Contém os arquivos de teste, como `token_api_test.spec.js`.
+- **cypress/integration/**: Contém os arquivos de teste, como `token_api_test.spec.cy.js`.
 - **cypress/support/commands.js**: Contém os comandos personalizados reutilizáveis, como `autenticar`, `validarErro400`, e `validarErro401`.
 - **cypress/fixtures/**: Contém arquivos JSON com os dados esperados para os testes, como `autenticacao_sucesso.json`, `autenticacao_erro400.json`, e `autenticacao_erro401.json`.
 
