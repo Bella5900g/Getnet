@@ -1,0 +1,11 @@
+{
+    "status": 401,
+    "body": {
+        "details": {
+            "status": "DENIED",
+            "description": "Unauthorized",
+            "error_code": "GENERIC-401",
+            "description_detail": "CODE 02"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "status": 200,
+  "body": {
+    "token_type": "Bearer",
+    "scope": "oob",
+    "expires_in_type": "number",
+    "access_token_type": "string"
+  }
+}
