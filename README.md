@@ -8,7 +8,6 @@ Este projeto contém uma suíte de testes automatizados para a API de autentica�
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Executando os Testes](#executando-os-testes)
 - [Comandos Personalizados](#comandos-personalizados)
-- [Contribuição](#contribuição)
 
 ## Instalação
 
@@ -68,7 +67,3 @@ Os testes fazem uso de comandos personalizados definidos no arquivo `cypress/sup
 - **`validarErro401()`**: Simula uma requisição com credenciais inválidas para gerar um erro 401.
 
 Esses comandos tornam o código mais reutilizável e facilitam a manutenção dos testes.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você encontrar algum bug ou quiser sugerir melhorias, sinta-se à vontade para abrir um _issue_ ou enviar um _pull request_.
